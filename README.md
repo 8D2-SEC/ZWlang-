@@ -22,7 +22,7 @@ python zwlang.py -cheat program.zw
 ## examples
 #### (ngl I vibecode this examples) 
 print the letter A using invisible code:  
-[A_invisible.zw](examples/A_invisible.zw)
+[A_invisible.zw](A_invisible.zw)
 
 print the letter A using cheat mode (`u`):  
-[A_cheat.zw](examples/A_cheat.zw)
+[A_cheat.zw](A_cheat.zw)
