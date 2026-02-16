@@ -15,7 +15,10 @@ normal mode (invisible):
 ```bash
 python zwlang.py program.zw
 ```
-
+cheat mod (visible):
+```bash
+python zwlang.py -cheat program.zw
+```
 ## examples
 #### (ngl I vibecode this examples) 
 print the letter A using invisible code:  
